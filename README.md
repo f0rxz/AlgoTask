@@ -3,7 +3,7 @@ Algorithm task from yandex contest written in python
 
 
 tested by default example directly from contest
-+----------------0---------------+
+<p>+----------------0---------------+
 |                                |
 |                                |
 |          Y        D            |
@@ -14,4 +14,4 @@ tested by default example directly from contest
 3        Y    D                  |
 |         A              X       |
 |                                |
-+----------------2---------------+
++----------------2---------------+</p>
